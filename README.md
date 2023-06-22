@@ -1,5 +1,3 @@
-# [Resume](./resume.pdf)
-
 <h1 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
     <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
@@ -87,14 +85,7 @@ You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recomm
 
 At a command prompt, run
 
-```bash<h1 align="center">
-  <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
-    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
-  </a>
-  <br />
-  Awesome CV
-</h1>
-
+```bash
 $ xelatex {your-cv}.tex
 ```
 
